@@ -1,0 +1,38 @@
+# ninja log v5
+26	923	647144540	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+1	2497	647144542	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+2498	2679	647144542	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	18	0	clean	2dbbf6545597253a
+0	18	0	clean	2dbbf6545597253a
+49	1460	647145446	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+9	2804	647145447	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+2804	2983	647145447	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	18	0	clean	2dbbf6545597253a
+10	1530	647147118	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+41	3126	647147119	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+3126	3337	647147120	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	17	0	clean	2dbbf6545597253a
+5	1149	647150203	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+31	2670	647150205	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+2670	2876	647150205	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+1	29	0	clean	2dbbf6545597253a
+34	2301	647153665	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+1	20	0	clean	2dbbf6545597253a
+50	1767	647153834	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+8	4343	647153837	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+4343	4679	647153837	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+7	3634	647277688	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+3634	4011	647277689	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	18	0	clean	2dbbf6545597253a
+0	17	0	clean	2dbbf6545597253a
+12	1461	647668895	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+27	2935	647668897	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+2936	3167	647668897	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	16	0	clean	2dbbf6545597253a
+1	66	0	clean	2dbbf6545597253a
+0	16	0	clean	2dbbf6545597253a
+5	1246	651980387	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b1f55077c0ca1b4f
+27	2557	651980389	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	1ad06d2b173b7c80
+2557	2866	651980389	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libdetection_based_tracker.so	840985f3946b63a9
+0	16	0	clean	2dbbf6545597253a
+0	14	0	clean	2dbbf6545597253a

@@ -1,0 +1,49 @@
+{
+  "buildFiles": [
+    "D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\dev\\poc\\OpenCV POC\\app\\.cxx\\cmake\\debug\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\dev\\poc\\OpenCV POC\\app\\.cxx\\cmake\\debug\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\dev\\poc\\OpenCV POC\\app\\.cxx\\cmake\\debug\\x86_64",
+        "native-lib"
+      ],
+      "abi": "x86_64",
+      "output": "D:\\dev\\poc\\OpenCV POC\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so",
+      "runtimeFiles": [
+        "D:\\dev\\poc\\OpenCV POC\\sdk\\native\\libs\\x86_64\\libopencv_java4.so"
+      ]
+    },
+    "detection_based_tracker-Debug-x86_64": {
+      "artifactName": "detection_based_tracker",
+      "buildCommandComponents": [
+        "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\dev\\poc\\OpenCV POC\\app\\.cxx\\cmake\\debug\\x86_64",
+        "detection_based_tracker"
+      ],
+      "abi": "x86_64",
+      "output": "D:\\dev\\poc\\OpenCV POC\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libdetection_based_tracker.so",
+      "runtimeFiles": [
+        "D:\\dev\\poc\\OpenCV POC\\sdk\\native\\libs\\x86_64\\libopencv_java4.so"
+      ]
+    }
+  }
+}

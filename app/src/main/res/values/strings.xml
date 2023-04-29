@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV POC</string>
+
+    <string name="ocr_result_tip">OPENCV POC</string>
+</resources>

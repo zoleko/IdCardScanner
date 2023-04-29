@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/dev/poc/OpenCV POC/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I\"D:/dev/poc/OpenCV POC/app/src/main/cpp\" -isystem \"D:/dev/poc/OpenCV POC/sdk/native/jni/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c \"D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\native-lib.cpp\"",
+  "file": "D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "D:/dev/poc/OpenCV POC/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -I\"D:/dev/poc/OpenCV POC/app/src/main/cpp\" -isystem \"D:/dev/poc/OpenCV POC/sdk/native/jni/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\detection_based_tracker.dir\\DetectionBasedTracker_jni.cpp.o -c \"D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\DetectionBasedTracker_jni.cpp\"",
+  "file": "D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\DetectionBasedTracker_jni.cpp"
+},
+
+{
+  "directory": "D:/dev/poc/OpenCV POC/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\Steveen\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Steveen/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -I\"D:/dev/poc/OpenCV POC/app/src/main/cpp\" -isystem \"D:/dev/poc/OpenCV POC/sdk/native/jni/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\detection_based_tracker.dir\\native-lib.cpp.o -c \"D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\native-lib.cpp\"",
+  "file": "D:\\dev\\poc\\OpenCV POC\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

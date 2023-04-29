@@ -1,0 +1,4 @@
+D:/dev/poc/OpenCV POC/app/.cxx/cmake/debug/x86_64/CMakeFiles/native-lib.dir
+D:/dev/poc/OpenCV POC/app/.cxx/cmake/debug/x86_64/CMakeFiles/detection_based_tracker.dir
+D:/dev/poc/OpenCV POC/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/dev/poc/OpenCV POC/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

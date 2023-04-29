@@ -1,0 +1,31 @@
+# ninja log v5
+13	770	647144545	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b4c2b079d7c972ec
+1	1971	647144547	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+1972	2256	647144547	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+1	20	0	clean	2dbbf6545597253a
+0	15	0	clean	2dbbf6545597253a
+16	782	647145450	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b4c2b079d7c972ec
+4	2025	647145452	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+2025	2237	647145452	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+0	15	0	clean	2dbbf6545597253a
+4	764	647147123	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b4c2b079d7c972ec
+17	2492	647147125	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+2492	2819	647147125	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+0	18	0	clean	2dbbf6545597253a
+4	761	647150208	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b4c2b079d7c972ec
+16	2166	647150210	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+2167	2356	647150210	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+0	21	0	clean	2dbbf6545597253a
+0	21	0	clean	2dbbf6545597253a
+4	876	647153841	CMakeFiles/detection_based_tracker.dir/native-lib.cpp.o	b4c2b079d7c972ec
+18	2614	647153843	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+2614	2916	647153843	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+6	1817	647277691	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	7accf5997dbb9ea4
+1817	2256	647277691	D:/dev/poc/OpenCV POC/app/build/intermediates/cmake/debug/obj/x86/libdetection_based_tracker.so	abda4c9ed877d36e
+0	17	0	clean	2dbbf6545597253a
+1	15	0	clean	2dbbf6545597253a
+0	14	0	clean	2dbbf6545597253a
+1	57	0	clean	2dbbf6545597253a
+0	15	0	clean	2dbbf6545597253a
+1	16	0	clean	2dbbf6545597253a
+1	19	0	clean	2dbbf6545597253a
